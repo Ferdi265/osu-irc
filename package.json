@@ -1,0 +1,28 @@
+{
+  "name": "osu-irc",
+  "version": "1.0.0",
+  "description": "A module for connecting to irc.ppy.sh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ferdi265/osu-irc.git"
+  },
+  "keywords": [
+    "osu",
+    "module",
+    "api",
+    "irc"
+  ],
+  "author": "Ferdi265 <theferdi265@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ferdi265/osu-irc/issues"
+  },
+  "homepage": "https://github.com/Ferdi265/osu-irc",
+  "dependencies": {
+    "slate-irc": ">=0.6"
+  }
+}
